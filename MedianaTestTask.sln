@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedianaTestTask", "ProxyTestConsoleApp\MedianaTestTask.csproj", "{AF0DB0C4-0E19-4746-A67D-E92A12A38DF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianaTestTaskTests", "MedianaTestTaskTests\MedianaTestTaskTests.csproj", "{D64B3A73-A339-4AD8-8427-BF5E3D318AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0DB0C4-0E19-4746-A67D-E92A12A38DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0DB0C4-0E19-4746-A67D-E92A12A38DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0DB0C4-0E19-4746-A67D-E92A12A38DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0DB0C4-0E19-4746-A67D-E92A12A38DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D64B3A73-A339-4AD8-8427-BF5E3D318AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64B3A73-A339-4AD8-8427-BF5E3D318AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64B3A73-A339-4AD8-8427-BF5E3D318AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64B3A73-A339-4AD8-8427-BF5E3D318AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9336E1B7-F0D4-4A2A-B78B-BF2D6450EBE9}
+	EndGlobalSection
+EndGlobal
